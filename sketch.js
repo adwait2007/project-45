@@ -5,7 +5,7 @@ function preload(){
   bunnyIMG=loadAnimation("bunny_running_1.png","bunny_running_2.png");
   lavaIMG=loadImage("lava image.jpg");
   groundIMG=loadImage("GroundTile.png");
-  crateIMG=loadImage("crate.png");
+  crateIMG=loadImage("Crate.png");
 }
 
 function setup() {
